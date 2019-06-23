@@ -1,0 +1,4 @@
+rules:
+- rule: markdowns
+  path: **/*.md
+  check: doccheck 
