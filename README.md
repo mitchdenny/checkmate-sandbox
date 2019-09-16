@@ -1,4 +1,1 @@
-# checkmate-sandbox
-Testing sandbox for Checkmate
-tete
-tests test test
+Noting to see here.
