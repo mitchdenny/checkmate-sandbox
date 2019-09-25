@@ -37,3 +37,33 @@ jobs:
   steps:
   - script: echo Hello, world!
     displayName: 'Run a one-line script'
+- job: job6
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - script: echo Hello, world!
+    displayName: 'Run a one-line script'
+- job: job7
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - script: echo Hello, world!
+    displayName: 'Run a one-line script'
+- job: job8
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - script: echo Hello, world!
+    displayName: 'Run a one-line script'
+- job: job9
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - script: echo Hello, world!
+    displayName: 'Run a one-line script'
+- job: job10
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - script: echo Hello, world!
+    displayName: 'Run a one-line script'
