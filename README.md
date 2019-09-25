@@ -1,4 +1,2 @@
 # checkmate-sandbox
-Testing sandbox for Checkmate
-tete
-tests test test
+Test 1
