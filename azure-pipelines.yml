@@ -35,5 +35,6 @@ jobs:
   pool:
     vmImage: 'ubuntu-latest'
   steps:
-  - script: echo Hello, world!
+  - script: exit 1
     displayName: 'Run a one-line script'
+    
