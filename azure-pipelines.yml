@@ -31,10 +31,5 @@ jobs:
   steps:
   - script: echo Hello, world!
     displayName: 'Run a one-line script'
-- job: job5
-  pool:
-    vmImage: 'ubuntu-latest'
-  steps:
-  - script: exit 1
-    displayName: 'Run a one-line script'
+ 
     
